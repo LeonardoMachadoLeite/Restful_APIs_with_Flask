@@ -7,5 +7,7 @@
 Ex .env:
 
 CLASSES_DIR=D:\Project Path\model
+
 READ_DIR=D:\Project Path\input
+
 WRITE_DIR=D:\Project Path\output
